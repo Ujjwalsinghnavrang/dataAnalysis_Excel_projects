@@ -1,0 +1,71 @@
+# 🛍️ Virinda Store Annual Report 2022
+
+This project presents a comprehensive annual analysis of **Virinda Store's** sales performance in 2022 using visualizations created in Excel/Power BI/other BI tools. The dashboard includes insights into monthly sales, gender-wise purchasing behavior, regional performance, delivery status, product returns, and more.
+
+---
+
+## 📊 Dashboard Highlights
+
+### 1. **Monthly Orders vs Sales**
+- Sales peaked in **March and May**.
+- A **steady decline** observed from **August to December**.
+- Correlation between order volume and revenue is visualized.
+
+### 2. **Delivery vs Cancellation**
+- **High delivery success rate** with negligible cancellations, indicating good logistics performance.
+
+### 3. **Sales Distribution (Gender)**
+- **Women customers dominate sales** with 64% contribution.
+- Men account for 36% of total sales.
+
+### 4. **Returns vs Refunds**
+- **67%** of returns did **not result in refunds**, possibly due to exchanges or policy.
+- **33%** of returns led to refunds.
+
+### 5. **Top 5 States by Sales**
+- **Maharashtra** is the top-performing state followed by **Karnataka** and **Uttar Pradesh**.
+- High sales concentration in southern and western states.
+
+### 6. **Order Breakdown by Gender & Age Group**
+- Adult women placed the most orders (34.59%).
+- Teenage women and adult men followed.
+- Senior customers show least engagement.
+
+### 7. **Sales Channel Performance**
+- **Amazon** leads with 35% order share.
+- **Myntra** (23%) and **Flipkart** (22%) are also significant contributors.
+- Minor channels include Meesho, Ajio, and Nalli.
+
+---
+
+## 📁 File Contents
+
+- `virinda_store_dashboard.png` - Visual snapshot of the analytical dashboard.
+- `README.md` - Documentation of the insights and project summary.
+
+---
+
+## 🔧 Tools Used
+
+- Microsoft Excel / Power BI / Tableau
+- Chart types: Bar Chart, Pie Chart, Line Graph, Donut Chart
+
+---
+
+## 📌 Key Takeaways
+
+- Focus on women-centric marketing strategies.
+- Strengthen presence in top-performing states.
+- Leverage Amazon and Flipkart more aggressively.
+- Improve refund policies for better customer satisfaction.
+
+---
+
+## 📬 Contact
+
+For queries or collaboration:
+- 📧 ujjwalsinghnavrang@gmail.com
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/ujjwal-singh-navrang-855995285/)
+
+---
+
